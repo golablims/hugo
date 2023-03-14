@@ -1,0 +1,49 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'LIMS golab documentation'
+theme = 'digitalgarden'
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Stack'
+  url = '/stack'
+  weight = 4
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 5
+[[menu.main]]
+  name = 'Slingr golab app'
+  url = '/golab-app'
+  weight = 6
+[[menu.main]]
+  name = 'Mobile golab app'
+  url = '/golab-mobile'
+  weight = 7
+[[menu.main]]
+  name = 'Landing golab page'
+  url = '/golab-landing'
+  weight = 8
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://linkedin.com'
+  weight = 1
+[[menu.social]]
+  name = 'Instagram'
+  url = 'https://instagram.com'
+  weight = 2
+[[menu.social]]
+  name = 'Email'
+  url = 'golablims@slingr.io'
+  weight = 3
