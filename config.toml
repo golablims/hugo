@@ -12,11 +12,11 @@ theme = 'digitalgarden'
   params.header = true
   weight = 2
 [[menu.main]]
-  name = 'Articles'
+  name = 'Plarform'
   url = '/articles'
   weight = 3
 [[menu.main]]
-  name = 'Stack'
+  name = 'Mobile'
   url = '/stack'
   weight = 4
 [[menu.main]]

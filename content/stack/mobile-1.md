@@ -1,5 +1,5 @@
 ---
-title: 1. Theme Installation
+title: 1. Mobile Use
 date: 2021-12-19
 images: 
 - https://raw.githubusercontent.com/apvarun/digital-garden-hugo-theme/main/images/digital-garden-logo.png
@@ -35,4 +35,4 @@ When deploying to services like Netlify or Vercel, use the following command for
 npm i -g postcss-cli && npm run build
 ```
 
-→ [Understanding the theme structure](/articles/structure)
+→ [Understanding the theme structure](/mobile/structure)
